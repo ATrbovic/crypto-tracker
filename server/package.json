@@ -53,6 +53,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.3.3",
     "knex": "^0.95.9",
+    "got": "^11.8.0",
     "morgan": "^1.10.0",
     "objection": "^2.2.15",
     "objection-unique": "^1.2.2",
