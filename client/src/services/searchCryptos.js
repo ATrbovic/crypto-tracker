@@ -14,4 +14,4 @@ const searchCryptos = async (searchQuery) => {
   }
 }
 
-export default searchShows
+export default searchCryptos

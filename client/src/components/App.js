@@ -9,8 +9,6 @@ import SignInForm from "./authentication/SignInForm";
 import TopBar from "./layout/TopBar";
 import CryptoList from "./CryptoList.js"
 
-
-
 const App = (props) => {
   const [currentUser, setCurrentUser] = useState(undefined);
   useEffect(() => {
