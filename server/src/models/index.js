@@ -2,4 +2,4 @@
 const User = require("./User.js")
 const Crypto = require("./Crypto.js")
 
-module.exports = {User};
+module.exports = {User, Crypto };

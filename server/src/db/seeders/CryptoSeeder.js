@@ -5,15 +5,15 @@ class CryptoSeeder {
     const crypotData = [
       {
         name: "Bitcoin",
-        price: "$46,000"
+        price: 46000
       },
       {
         name: "Ethereum",
-        price: "$3,125"
+        price: 3125
       },
       {
         name: "Doge",
-        price: "$1,000,000"
+        price: 1000000
       }
     ]
 
