@@ -1,5 +1,5 @@
 import express from "express"
-import Crypto from "../../../models/Crypto.js"
+import { Crypto } from "../../../models/index.js"
 import CryptoSerializer from "../../../serializers/CryptoSerializer.js"
 
 const searchRouter = new express.Router()
