@@ -58,7 +58,7 @@ const CryptosList = (props) => {
     handleSearch(searchResults)
   }, [searchData])
 
-
+  
   return (
     <div className="callout primary">
       <h1>Cryptos</h1>

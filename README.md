@@ -1,1 +1,2 @@
-# crypto-tracker
+Crypto-tracker is a cryptocurrency tracker that allows users to easily view analytics and track the performance of cryptocurrencies, and add cryptocurrencies to their personal watchlist. I Integrated the Coin Market API into the express application with a PostgressSQL database and a react front end with custom CSS. The application was developed while following proper git workflow and test-driven development practices.
+
